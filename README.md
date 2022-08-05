@@ -1,20 +1,43 @@
-### Hi, I'm João 👋
+<h1 align='center'>
+  Hello, I am João (John)!
+  <br/>
+  Welcome to my Profile.
+</h1>
 
-Thanks for visiting my profile 😀
+**📕 About me:**
 
-- 👨‍💼 CEO of KG Environment Coding
-- 💻 Working for Sicoob Cecremef
+- 👨‍💼 Graduating in Analysis and Systems Development
+- 💻 Working for Sicoob Cecremef (Infraestruture)
+- 🎨 Pleno FrontEnd Developer
+- 👨🏻‍💻 Junior BackEnd Developer - *At the moment studing a lot about Java Development*
+- 👨 I'm 21 years developer, livin in Brazil - Rio de Janeiro
+
+**🏆2022/2023 Goals:**
+- Find a full-time development job
+- Study 4 hours a day
+- Get my graduation
+
+##
+
+**Languages I use:**
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Java" height="30" width="60" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="Joao-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Joao-Java" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg">
+  <img align="center" alt="Joao-JS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/JavaScript.svg">
+  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg">
+  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Java-Dark.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Python-Dark.svg">
+	<img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CS.svg">
+	<img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CPP.svg">
+	<img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/C.svg">
+
 </div>
 
 ##
 
+<h1 align="center">
+Check out my other Social Medias
+</h1>
 <div> 
   <a href="https://instagram.com/kl_joao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/6NmnnrWq5B" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
