@@ -12,10 +12,20 @@
 - 👨🏻‍💻 Junior BackEnd Developer - *At the moment studing a lot about Java Development*
 - 👨 I'm 21 years developer, livin in Brazil - Rio de Janeiro
 
+<br>
+
 **🏆2022/2023 Goals:**
 - Find a full-time development job
 - Study 4 hours a day
 - Get my graduation
+
+<br>
+
+*<b>📊My Stats</b>*
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kljoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kljoao&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ##
 
@@ -32,6 +42,7 @@
 	<img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/C.svg">
 
 </div>
+
 
 ##
 
