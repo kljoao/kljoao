@@ -14,7 +14,7 @@
 
 <br>
 
-**🏆2022/2023 Goals:**
+**🏆2023 Goals:**
 - Find a full-time development job
 - Study 4 hours a day
 - Get my graduation
