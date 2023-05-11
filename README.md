@@ -10,7 +10,7 @@
 - 💻 Working for Sicoob Cecremef (Infraestruture)
 - 🎨 FrontEnd Developer
 - 👨🏻‍💻 Junior BackEnd Developer - *At the moment studing a lot about Java Development*
-- 👨 I'm 21 years developer, livin in Brazil - Rio de Janeiro
+- 👨 I'm 22 years developer, livin in Brazil - Rio de Janeiro
 
 <br>
 
