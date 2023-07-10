@@ -7,9 +7,9 @@
 **📕 About me:**
 
 - 👨‍💼 Graduating in Analysis and Systems Development
-- 💻 Working for Sicoob Cecremef (Infraestruture)
+- 💻 Working for Sicoob Empresas (Full Stack Developer)
 - 🎨 FrontEnd Developer
-- 👨🏻‍💻 Junior BackEnd Developer - *At the moment studing a lot about Java Development*
+- 👨🏻‍💻 Back End Developer
 - 👨 I'm 22 years developer, livin in Brazil - Rio de Janeiro
 
 <br>
