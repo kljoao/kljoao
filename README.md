@@ -14,13 +14,6 @@
 
 <br>
 
-**🏆2023 Goals:**
-- Find a full-time development job
-- Study 4 hours a day
-- Get my graduation
-
-<br>
-
 *<b>📊My Stats</b>*
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kljoao&layout=compact&langs_count=7&theme=dracula"/>
