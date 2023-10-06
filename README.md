@@ -11,7 +11,7 @@
 - 🎨 FrontEnd Developer
 - 👨🏻‍💻 Back End Developer
 - 👨 I'm 22 years developer, livin in Brazil - Rio de Janeiro
-- 📜 Now working in this app <a href="https://github.com/kljoao/maquinas">Maquinas</a>
+- 📜 Now working in this app >> <a href="https://github.com/kljoao/lotus-system">Lotus System</a>
 
 <br>
 
