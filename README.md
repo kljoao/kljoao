@@ -7,7 +7,7 @@
 **📕 About me:**
 
 - 👨‍💼 Graduating in Analysis and Systems Development
-- 💻 Working for Sicoob Empresas (Full Stack Developer)
+- 💻 Working for Sicoob Empresas (Dev)
 - 🎨 FrontEnd Developer
 - 👨🏻‍💻 Back End Developer
 - 👨 I'm 23 years developer, livin in Brazil - Rio de Janeiro
