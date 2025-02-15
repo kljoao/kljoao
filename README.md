@@ -8,7 +8,7 @@
 
 - 👨‍💼 Analysis and Systems Development graduate
 - 👨‍💼 Postgraduate student in fullstack development
-- 💻 Working for RioSaude
+- 💻 Working for RioSaude (Software Engineer Middle)
 - 🎨 FrontEnd Developer
 - 👨🏻‍💻 Back End Developer
 - 👨 I'm 24 years developer, livin in Brazil - Rio de Janeiro
@@ -31,6 +31,7 @@
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/Python-Dark.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CS.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/NodeJS-Dark.svg">
+  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/PHP-Dark.svg">
   <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/TypeScript.svg">
 </div>
 
