@@ -86,12 +86,6 @@ const joao = {
   src="https://github-readme-streak-stats.herokuapp.com/?user=kljoao&theme=tokyonight&hide_border=true" 
 />
 
-<br/><br/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kljoao&layout=compact&theme=tokyonight&hide_border=true" 
-/>
-
 </div>
 
 ---
