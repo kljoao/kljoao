@@ -119,6 +119,6 @@ const joao = {
 
 <div align="center">
 
-### ⚙ Currently working on private and enterprise applications
+### ⚙ Currently working on Discorda
 
 </div>
