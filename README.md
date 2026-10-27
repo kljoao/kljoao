@@ -16,7 +16,7 @@
 const joao = {
   age: 25,
   location: "Rio de Janeiro, Brazil",
-  currentRole: "Mid-Level Software Engineer @ RioSaúde",
+  currentRole: "Sr. Software Engineer @ MAG",
 
   education: {
     graduation: "Systems Analysis and Development - UNISUAM",
